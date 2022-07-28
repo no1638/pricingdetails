@@ -27,19 +27,19 @@ I will provide a secure NGROK hosted TCP server, all you need to do is supply th
 I will code your server entirely, __BE ADVISED ITS NOT A 1 TIME PAYMENT IT IS A RECURRING BILLING-TYPE SERVICE!__  
   
 ## Prices :  
-Discord Server Basic Vetting System : $3  
-Discord Server Furnishing : $3  
-Discord Server Permissions Control : $2
-Discord Server BVS + Permissions Control : $5  
-Discord Server BVS + PControl + Furnishing : $6 (Reduced price for bulk purchase)  
+Discord Server Basic Vetting System : $5  
+Discord Server Furnishing : $4  
+Discord Server Permissions Control : $4
+Discord Server BVS + Permissions Control : $8  
+Discord Server BVS + PControl + Furnishing : $10 (Reduced price for bulk purchase)  
 ##  
-Basic Discord bot (under 500 Lines) : $15  
-Advanced Discord bot (over or equal to 500 Lines) : $25  
+Basic Discord bot (under 500 Lines) : $20  
+Advanced Discord bot (over or equal to 500 Lines) : $28  
 ##  
-Basic Secure TCP Database (Unencrypted network traffic) : $5  
-Advanced Secure TCP Database (Encrypted network traffic) : $13  
+Basic Secure TCP Database (Unencrypted network traffic) : $8  
+Advanced Secure TCP Database (Encrypted network traffic) : $16  
 ##  
-DayZ Server setup (initial fee / downpayment, covers : zombie spawns, player spawnpoints and (if zombies are enabled) what zombies do / dont spawn with) : $10  
-DayZ Server coding (after initial fee) : $6 Per Hour  
+DayZ Server setup (initial fee / downpayment, covers : zombie spawns, player spawnpoints and (if zombies are enabled) what zombies do / dont spawn with) : $15  
+DayZ Server coding (after initial fee) : $8 Per Hour  
 ##  
 __ALL PRICES ARE IN USD, IF YOU USE DIFFERENT CURRENCY CONVERT YOUR CURRENCY AND PAY ME ACCORDINGLY, I ONLY ACCEPT UPFRONT PAYMENT VIA CASHAPP!! WILLING TO SHOW OFF WORK BEFORE BEING PAID TO ENSURE QUALITY OF SERVICE!!__
