@@ -1,5 +1,5 @@
 
-#Contact me!  
+Contact me!  
 Discord ID: 597516319545622549  
 Look me up on https://discord.id !
 
