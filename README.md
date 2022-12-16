@@ -1,3 +1,8 @@
+
+#Contact me!
+Discord ID: 597516319545622549
+Look me up on https://discord.id !
+
 # Services
 Fully Secure Discord servers  
 Python Discord bots  
