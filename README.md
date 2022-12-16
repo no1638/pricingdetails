@@ -34,7 +34,7 @@ Discord Server BVS + Permissions Control : $8
 Discord Server BVS + PControl + Furnishing : $10 (Reduced price for bulk purchase)  
 ##  
 Basic Discord bot (under 500 Lines) : $20  
-Advanced Discord bot (over or equal to 500 Lines) : $28  
+Advanced Discord bot (over or equal to 500 Lines) : $45  
 ##  
 Basic Secure TCP Database (Unencrypted network traffic) : $8  
 Advanced Secure TCP Database (Encrypted network traffic) : $16  
