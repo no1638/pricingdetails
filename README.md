@@ -19,7 +19,7 @@ I offer custom Python Discord bot development tailored to your specific needs. E
 Enhance your Discord bot with custom OpenAI integration for a more personalized user experience!
 
 ### Python Discord Bot Hosting (Standard, or OpenAI Integrated)
-I offer professional bot hosting services, including both standard bots and OpenAI integrated bots, at a competitive rate of $175.00 USD per month. Let me handle the hosting while you focus on maximizing your bot's potential!
+I offer professional bot hosting services, including both standard bots and OpenAI integrated bots, at a competitive rate of $175.00 USD per month (covers internet usage, OpenAI Integration charges and more!). Let me handle the hosting while you focus on maximizing your bot's potential!
 
 ### Secure Python TCP Databases:
 Ensure confidentiality with individual passwords for selective access to profiles or data sets. Safeguard information or communicate securely with agents using a secure NGROK hosted TCP server. Share the NGROK TCP link with authorized individuals to access their designated data with password authentication.
