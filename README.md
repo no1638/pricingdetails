@@ -3,48 +3,38 @@ Contact me!
 Discord ID: 597516319545622549  
 Look me up on https://discord.id !
 
-# Services
-Fully Secure Discord servers  
-Python Discord bots  
-Secure python TCP databases (password protected, good for data storange or larp intel-agency databases)  
-DayZ coding  
-  
-All details for individual services will be listed below!  
-  
-### Fully Secure Discord Servers  
-I will make your server Nuke-Proof, all i need is temporary administrator permissions!  
-#### What i offer for server security  
-Vetting systems (example: when someone joins they are not able to immediately join main channels  
-Permissions control  
-Server furnishing __My job is to make your dream a reality regarding your discord communities__  
-  
-### Python Discord Bots  
-I will code a python discord bot, whatever you need i can do!  
-Examples:  
-Economy bots  
-Moderation bots  
-### Secure Python TCP Databases  
-Ever need to make information available to select individuals with individual passwords for each profile / set of data?  
-Ever need to secure a vault of information or inform your agents without directly talking to them over an app?  
-__YOU'RE IN THE RIGHT PLACE!!__  
-I will provide a secure NGROK hosted TCP server, all you need to do is supply the NGROK TCP link to your agents or friends to connect, then they can enter their password to access the data meant for them!  
-### DayZ Coding  
-I will code your server entirely, __BE ADVISED ITS NOT A 1 TIME PAYMENT IT IS A RECURRING BILLING-TYPE SERVICE!__  
+# Services:
+- Python Discord bot development
+- Python Discord bot development with OpenAI Integration
+- Discord Bot Hosting (Standard, or OpenAI)
+- Secure Python TCP databases (password-protected, ideal for data storage or LARP intel-agency databases)
+- DayZ coding
+
+Please find detailed information on each service below.
+
+### Python Discord Bots:
+I offer custom Python Discord bot development tailored to your specific needs. Examples include economy bots and moderation bots. Let's bring your Discord server to life with a powerful and efficient bot solution.
+
+### Python Discord Bot with OpenAI Integrations:
+Enhance your Discord bot with custom OpenAI integration for a more personalized user experience!
+
+### Python Discord Bot Hosting (Standard, or OpenAI Integrated)
+I offer professional bot hosting services, including both standard bots and OpenAI integrated bots, at a competitive rate of $175.00 USD per month. Let me handle the hosting while you focus on maximizing your bot's potential!
+
+### Secure Python TCP Databases:
+Ensure confidentiality with individual passwords for selective access to profiles or data sets. Safeguard information or communicate securely with agents using a secure NGROK hosted TCP server. Share the NGROK TCP link with authorized individuals to access their designated data with password authentication.
+
+### DayZ Coding:
+I offer comprehensive server coding services for DayZ. Please note that this service operates on a recurring billing model for ongoing support and maintenance.
   
 ## Prices :  
-Discord Server Basic Vetting System : $5  
-Discord Server Furnishing : $4  
-Discord Server Permissions Control : $4
-Discord Server BVS + Permissions Control : $8  
-Discord Server BVS + PControl + Furnishing : $10 (Reduced price for bulk purchase)  
+Discord bot: $20.00 USD Per hour
+Discord bot (OpenAI): $25.00 USD Per hour
 ##  
-Basic Discord bot (under 500 Lines) : $20  
-Advanced Discord bot (over or equal to 500 Lines) : $45  
-##  
-Basic Secure TCP Database (Unencrypted network traffic) : $8  
-Advanced Secure TCP Database (Encrypted network traffic) : $16  
+Basic Secure TCP Database (Unencrypted network traffic) : $10 USD 
+Advanced Secure TCP Database (Encrypted network traffic) : $20 USD 
 ##  
 DayZ Server setup (initial fee / downpayment, covers : zombie spawns, player spawnpoints and (if zombies are enabled) what zombies do / dont spawn with) : $15  
-DayZ Server coding (after initial fee) : $8 Per Hour  
+DayZ Server coding (after initial fee) : $20 Per Hour  
 ##  
-__ALL PRICES ARE IN USD, IF YOU USE DIFFERENT CURRENCY CONVERT YOUR CURRENCY AND PAY ME ACCORDINGLY, I ONLY ACCEPT UPFRONT PAYMENT VIA CASHAPP!! WILLING TO SHOW OFF WORK BEFORE BEING PAID TO ENSURE QUALITY OF SERVICE!!__
+__ALL PRICES ARE IN USD, IF YOU USE DIFFERENT CURRENCY CONVERT YOUR CURRENCY AND PAY ME ACCORDINGLY, I ONLY ACCEPT UPFRONT PAYMENT VIA CASHAPP / PAYPAL !! WILLING TO SHOW OFF WORK BEFORE BEING PAID TO ENSURE QUALITY OF SERVICE !!__
